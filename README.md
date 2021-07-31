@@ -1,2 +1,2 @@
-# ecommerce
-Ecommerce con carrito de compras, mails y mercado pago
+# ecommerce 
+Ecommerce con carrito de compras, registros, mails y mercado pago
